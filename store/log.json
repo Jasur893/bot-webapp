@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": 1078608772,
+        "first_name": "Jasur",
+        "last_name": "",
+        "username": "jasur3389",
+        "language_code": "ru",
+        "allows_write_to_pm": true
+    },
+    "orderData": [
+        {
+            "title": "Qizil olma",
+            "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "photo": "1.png",
+            "price": 4200
+        },
+        {
+            "title": "Samarqand Gilos",
+            "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "photo": "2.png",
+            "price": 5000
+        },
+        {
+            "title": "Apelsin",
+            "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "photo": "5.png",
+            "price": 3600
+        },
+        {
+            "title": "Qulupnay",
+            "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "photo": "4.png",
+            "price": 2100
+        }
+    ],
+    "orderPrice": 14900,
+    "currence": "UZS"
+}
